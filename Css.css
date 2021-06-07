@@ -1,0 +1,32 @@
+#Oi{
+    color: blue;
+}
+h1,h2,p{
+    font-family:cursive;;
+}
+span{
+    font-size:25px
+}
+#Oii{
+    background-image: linear-gradient(to bottom, #37fff5, #0ebbff);
+    border-radius: 5%;
+}
+/* Hover */
+img{
+    opacity: 1;
+}
+img:hover{
+    opacity: 0.5 ;
+}
+tr:nth-child(odd){
+    background-color:forestgreen;
+}
+tr:nth-child(even){
+    background-color:chartreuse; 
+}
+tr:nth-child(3){
+    background-color:chartreuse; 
+}
+#Testee{
+    background-color:darkgreen;
+}
